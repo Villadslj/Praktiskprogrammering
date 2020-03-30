@@ -1,0 +1,21 @@
+class main{
+	static int Main(){
+	return 0;
+}
+}
+
+public static class print{
+	static string s=("hello from print\n");
+	public static print{
+		System.Console.Write(s);
+}
+}
+
+
+public class writer{
+	public string s="hello from writer";
+
+}
+
+
+}
