@@ -1,10 +1,15 @@
-all: out.txt
-	cat out.txt
+CSFLAGS = -warn:4
 
-out.txt: main.exe
+out.txt : main.exe
 	mono main.exe > out.txt
-main.exe: main.cs
-	mcs -out:main.exe main.cs
+
+main.exe : main.cs cmath.dll
+	mcs $(CSFLAGS) -reference:cmath.dll -out:main.exe main.cs
+
+CDIR= /home/villads/Praktiskprogrammering/math
+cmath.dll: $(CDIR)/cmath.cs $(CDIR)/complex.cs
+	mcs $(CFLAGS) -target:library -out:$@ $^  # $^ = all prerequisites
+
 .PHONEY:clean
 clean:
-	rm --force out.txt main.exe 
+	rm --force out* *.dll *.exe
