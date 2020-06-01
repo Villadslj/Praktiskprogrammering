@@ -1,0 +1,13 @@
+
+set term svg background rgb "white"
+set out "Errfun.svg"
+set xlabel "x"
+set ylabel "y"
+set key bottom right
+set tics out
+set xzeroaxis
+set yzeroaxis
+set title "Error function"
+plot [-4:6][-5:5] \
+	"out.errorfunction.txt" with lines title"errorfunction"\
+	, "errorfunctiontab.txt" with points pt 7 title"errorfunction tabulated values"	

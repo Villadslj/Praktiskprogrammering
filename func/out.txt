@@ -1,0 +1,6 @@
+Integral of ln(x)/sqrt(x) from 0 to 1 is = -3.99976355149072 which is approxematly 4.
+Integral of Exp(-Pow(x,2)) from -inf to inf is = 1.77245411516459, sqrt(pi) = 1.77245385090552
+Integral of Pow((Log(1/x),1.00) from 0 to 1 is = 1.000001, Here gamma(1.00 + 1) = 1.000000
+Integral of Pow((Log(1/x),2.00) from 0 to 1 is = 2.000000, Here gamma(2.00 + 1) = 2.000000
+Integral of Pow((Log(1/x),3.00) from 0 to 1 is = 6.000009, Here gamma(3.00 + 1) = 6.000000
+Integral of Pow((Log(1/x),4.00) from 0 to 1 is = 24.000223, Here gamma(4.00 + 1) = 24.000000

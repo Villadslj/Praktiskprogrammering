@@ -1,0 +1,11 @@
+x step value 0. gives numerical solution 0.5 compared to analytical result 0.5
+x step value 0.1. gives numerical solution 0.524979186191813 compared to analytical result 0.52497918747894
+x step value 0.3. gives numerical solution 0.574442490265058 compared to analytical result 0.574442516811659
+x step value 0.607338186346108. gives numerical solution 0.647333984263344 compared to analytical result 0.647333367557423
+x step value 1.01678133638928. gives numerical solution 0.734359050691528 compared to analytical result 0.734345168830689
+x step value 1.41320732983072. gives numerical solution 0.804312138276104 compared to analytical result 0.804271330924961
+x step value 1.77053978761763. gives numerical solution 0.854586086142158 compared to analytical result 0.854524786078433
+x step value 2.11841668234872. gives numerical solution 0.892757622462857 compared to analytical result 0.892680338557121
+x step value 2.46566576599361. gives numerical solution 0.921787410211387 compared to analytical result 0.921699536528053
+x step value 2.83174030585009. gives numerical solution 0.944464048437546 compared to analytical result 0.944367104783738
+x step value 3. gives numerical solution 0.952658713295472 compared to analytical result 0.952574126822433

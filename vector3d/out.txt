@@ -1,0 +1,4 @@
+vector3d u = 9 9 9
+vector3d v = 1 2 3
+The dot product of u with u is 243
+The cross product og u with v is (9,-18,9)
