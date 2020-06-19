@@ -1,0 +1,15 @@
+Part B
+We want to calculate the integral 1/Sqrt(x) dx from a=0 to b=1 and ln(x)/Sqrt(x) with the same baundaries using the Clenshaw-Curtis transformaiton, to check if the transformation have improvements for integrals with integrable divergencies.
+The result is 1.99999, with 16 number of calls to the function. The analytical result is 2.000.
+Calculating the integral without Clenshaw-Curtis transformation gives {res2:f5}, with {noOfCalls} number of calls to the function
+
+We now calculate the integral of ln(x)/Sqrt(x) dx from a=0 to b=1 with Clenshaw-Curtis transformaiton. 
+This gives -3.99987, with 96 number of calls to the function. The analytical result is -4.00
+Without the transformation we get -3.99992, with 8604 number of calls to the function
+The Clenshaw-Curtis transformaiton do infact reduce the number of calls quiet significantly
+
+At last we calculate the integral 4 * Sqrt(1-x^2) dx from a=0 to b=1 with Clenshaw-Curtis transformaiton
+The result is 3.1415763865, with 44 number of calls to the function, where the analtical resutl is pi
+Again the result without the transformation is 3.1418345780, with 28 number calls to the function
+Comparing to the 'o8av' integrator routine from matlib, the result is 3.1413229434, with 8 number of calls to the function
+We see that  'o8av' uses fewer calls but is also less accurate.

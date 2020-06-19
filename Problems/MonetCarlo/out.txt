@@ -1,0 +1,10 @@
+Part A
+The integral of interrest is (1/PI)^3 * 1/(1 - Cos(x) * Sin(y) * Cos(z))
+The result from the montecarlo integration is =1.42368331992407
+with errror estimate of = 0.0247393741143334
+Compared to the analytical result = 1.39320392968568
+
+Part B
+To compare the error to the 1/Sqrt(N) dependency, we plot the monte carlo result - the analytical resut for the integral of 
+sin(x)sin(y) from 0 to PI, which gives 4, and compare to a/Sqrt(N) where a is a constant (4 in this case)
+This in plottet in this folder.

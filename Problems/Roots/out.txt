@@ -1,0 +1,2 @@
+We are finding the minumum of the Rosenbrock's valley function, by Newton's method with numerical Jacobian and back-tracking linesearchThe minimum was found to be =          1          1 
+Which is the exact same as the analytical result. In part B , the error was found at root = 3.02429230719962E-09.

@@ -127,10 +127,10 @@
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
-	<g id="gnuplot_plot_1a" ><title>Created data from x2-x3</title>
+	<g id="gnuplot_plot_1a" ><title>data from Pow(x,2)- Pow(x,3)</title>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 	<g transform="translate(498.9,76.0)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
-		<text><tspan font-family="Arial" >Created data from x</tspan><tspan font-family="Arial"  font-size="9.6" dy="-6.00px">2</tspan><tspan font-family="Arial"  font-size="12.0" dy="6.00px">-x</tspan><tspan font-family="Arial"  font-size="9.6" dy="-6.00px">3</tspan><tspan font-size="12.0" dy="6.00"></tspan></text>
+		<text><tspan font-family="Arial" >data from Pow(x,2)- Pow(x,3)</tspan></text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
@@ -288,10 +288,10 @@
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
-	<g id="gnuplot_plot_1b" ><title>x3/3-x4/4</title>
+	<g id="gnuplot_plot_1b" ><title>Pow(x,3)/3-Pow(x,4)/4</title>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 	<g transform="translate(498.9,315.9)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
-		<text><tspan font-family="Arial" >x</tspan><tspan font-family="Arial"  font-size="9.6" dy="-6.00px">3</tspan><tspan font-family="Arial"  font-size="12.0" dy="6.00px">/3-x</tspan><tspan font-family="Arial"  font-size="9.6" dy="-6.00px">4</tspan><tspan font-family="Arial"  font-size="12.0" dy="6.00px">/4</tspan></text>
+		<text><tspan font-family="Arial" >Pow(x,3)/3-Pow(x,4)/4</tspan></text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
@@ -301,10 +301,10 @@
 		L413.2,346.6 L428.7,353.8 L444.3,362.0 L459.8,371.3 L475.4,381.9 L490.9,393.8 L506.4,407.2 L522.0,422.2
 		 '/></g>
 	</g>
-	<g id="gnuplot_plot_2b" ><title>Integration of x3/3-x4/4</title>
+	<g id="gnuplot_plot_2b" ><title>Integral of Pow(x,3) / 3-Pow(x,4) / 4</title>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 	<g transform="translate(498.9,333.9)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
-		<text><tspan font-family="Arial" >Integration of x</tspan><tspan font-family="Arial"  font-size="9.6" dy="-6.00px">3</tspan><tspan font-family="Arial"  font-size="12.0" dy="6.00px">/3-x</tspan><tspan font-family="Arial"  font-size="9.6" dy="-6.00px">4</tspan><tspan font-family="Arial"  font-size="12.0" dy="6.00px">/4</tspan></text>
+		<text><tspan font-family="Arial" >Integral of Pow(x,3) / 3-Pow(x,4) / 4</tspan></text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">

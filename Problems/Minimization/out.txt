@@ -1,0 +1,11 @@
+
+Starting point:             1          1 
+steps = 29
+Found minimum = (0.99992, 0.99983,)
+Exact minimum = (1,1)
+Tolerance for gradient = 1E-06
+Starting point:        -2.81       3.13 
+steps = 6
+The minimum was found at minimum = (-2.80511, 3.13132)
+Where the analytical minimum = (-2.805118, 3.131312)
+The tolorence for gradient is = 1E-06

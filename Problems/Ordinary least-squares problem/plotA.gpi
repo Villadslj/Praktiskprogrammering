@@ -1,0 +1,14 @@
+set term svg background rgb "white"
+set out "PlotA.svg"
+
+set xlabel "t (days)"
+set ylabel "Activity (rel. units)"
+set tics out
+
+
+
+
+set title "Activity of ThX (224Ra)"
+plot "outputData.txt" with yerrorbars t "Data" \
+, "outputFitData.txt" u 1:2 t "Fit" w l \
+

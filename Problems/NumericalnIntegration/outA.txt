@@ -1,0 +1,7 @@
+Part A.
+Calculating the integral of Sqrt(x) dx from a=0 to b=1
+Tish gives 0.66667
+Where the analytical result is 0.66667.
+Next we calculate the integral of 4* Sqrt(1-x^2) dx from a=0 to b=1
+The result is 3.14159
+Where again the analytical result is 3.14159. So both numerical integrals seem to match the analytical result
